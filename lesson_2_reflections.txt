@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It created an empty Git repository and ready to track the first commit.  You need to do this to create a baseline
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+You begin committing in the staging area, whereas the working directory is prior to commit being tracked. You can define relationship of the files to be committed together in the staging area, however you don't get that in the working directory
