@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It created an empty Git repository and ready to track the first commit.  You need to do this to create a baseline
