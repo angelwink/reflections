@@ -13,3 +13,7 @@ The staging area allows you to git add all the changes needed for 1 logical chan
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches provides a logical name to track of possible changes.  It allows you to check out and revise the code without commiting to the master branch until it's certain
+
+How do the diagrams help you visualize the branch structure?
+ 
+Diagrams helps to visualize the branch structure by providing lineage of each commit or detached state.
