@@ -5,3 +5,7 @@ So you can publish code for others to see and/or contribute
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You may not want to synch up every little changes because it's time consuming, you want to define a logical change that is significant enough to do a synch.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+You can clone in Git or GitHub but you can only clone in GitHub.  In addition, fork links back to the original repo, but clone doesn't.  You should use fork in GitHub to make a copy, then use clone to make a copy to your local repo and use branch to make local changes.
+
